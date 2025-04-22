@@ -1,5 +1,5 @@
 {
-  "name": "ngx-device-detector-ws",
+  "name": "ngx-device-detector",
   "version": "9.0.0",
   "license": "MIT",
   "scripts": {
